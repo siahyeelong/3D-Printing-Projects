@@ -19,8 +19,21 @@ My model can be found on [Onshape](https://cad.onshape.com/documents/bd7db400960
 ## 1. Opening the model on Onshape
 Open the public model [here](https://cad.onshape.com/documents/bd7db400960aa689bd6e2ede/w/8cfd940abfba4c5b97c73ec7/e/d102f4b55f71ee6b03289167?configuration=Bottom_Internal_Height%3D0.08%2Bmeter%3BBox_Internal_Breadth%3D0.112%2Bmeter%3BBox_Internal_Length%3D0.16%2Bmeter%3BHandle%3Dtrue%3BHandle_Length%3D0.1%2Bmeter%3BHandle_Thickness%3D0.015%2Bmeter%3BScrew_Length__stalk_only_%3D0.03%2Bmeter%3BScrew_Size__Diameter_%3D0.004%2Bmeter%3BTop_Internal_Height%3D0.03%2Bmeter%3BWall_Thickness%3D0.003%2Bmeter&renderMode=0&uiState=67186d30c2140f176d8c0c65).
 
+![image](./images/open%20model.png)
+
 ## 2. Editing the configurations to suit your needs
-## 3. Assembly
+On the Configurations panel on the left, edit the configurations of the box according to your needs. You may choose to disable the handle if you just want a plain box.
+
+![image](./images/edit%20config.png)
+
+## 3. Exporting the model
+Once you are satisfied with the model, click on the download button on the bottom
+![image](./images/exporting%201.png)
+
+Export your model as a .STEP or .stl file to be sliced
+![image](./images/exporting%202.png)
+
+## 4. Assembly
 # Future Ideas
 1. Slimmer hinge options
 1. Stackable design
