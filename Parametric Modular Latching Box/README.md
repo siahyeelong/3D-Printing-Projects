@@ -34,18 +34,28 @@ Export your model as a .STEP or .stl file to be sliced
 ![image](./images/exporting%202.png)
 
 ## 4. Assembly
+Once you have printed the parts according to the recommended slicer settings, proceed to slide and lock in the hinges and latches part into the main box component. The fit is designed to be firm to maintain some structural strength to the box.
+
+Screw in the necessary hardware where required
+
+For handles, insert the handle first, then slide the locking piece in. Rotate the locking piece once fully inserted till it touches the end of the track. Pull the locking piece up with a screwdriver to firmly lock it in place.
+
 # Future Ideas
 1. Slimmer hinge options
 1. Stackable design
 1. Compatible with smaller sizes
 1. Customisable number of latches and hinges
 # Print Settings
-- Material:
-- Print settings:
+- Material: PLA / PETG
+- Print settings: 
+    - Walls: 2
+    - Infill: Gyroid 10%
+    - Top Layers: 4
+    - Bottom Layers: 4
 
-# Contact Me
-- Printables
-- Thingiverse
-- Makerworld
-- GitHub: github.com/siahyeelong/3D-Printing-Projects
-- LinkedIn: linkedin.com/in/siahyeelong/
+# More
+- Printables: https://printables.com/@SiahYeeLong_2539073
+- Thingiverse: https://thingiverse.com/syeelong/
+- Makerworld: https://makerworld.com/en/@yeelong
+- GitHub: https://github.com/siahyeelong/3D-Printing-Projects
+- LinkedIn: https://linkedin.com/in/siahyeelong/
