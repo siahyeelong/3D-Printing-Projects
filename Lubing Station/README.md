@@ -3,10 +3,6 @@ This is a lubing station designed to hold 4x8=32 switches at once, with a dedica
 
 This was designed for Jon, hope you like it!
 
-# Print Settings
-- Material:
-- Print settings:
-
 # More
 - Printables: https://printables.com/@SiahYeeLong_2539073
 - Thingiverse: https://thingiverse.com/syeelong/

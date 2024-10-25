@@ -1,7 +1,8 @@
 # Overview
 This is a lithophane light box that I have designed myself as a side project. To light up the lithophane from the back, an LED strip is attached at the back, with a USB-C connector to power the LED. Assembly instructions are written in the [Usage](#usage) section.
 
-(show final product here)
+![image](./images/kanagawa.png) ![image](./images/kanagawa%20back.png)
+
 # Usage
 
 Bill of materials:
