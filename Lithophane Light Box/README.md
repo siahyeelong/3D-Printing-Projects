@@ -1,13 +1,19 @@
 # Overview
 This is a lithophane light box that I have designed myself as a side project. To light up the lithophane from the back, an LED strip is attached at the back, with a USB-C connector to power the LED. Assembly instructions are written in the [Usage](#usage) section.
 
-![image](./images/kanagawa.png) ![image](./images/kanagawa%20back.png)
+<img src="./images/kanagawa.png" height="300"/> 
+<img src="./images/kanagawa back.png" height="300"/>
 
 # Usage
 
 Bill of materials:
-1. 5V LED light strip 3528 (I got mine [here](https://a.aliexpress.com/_oE7EGl1)) ![image](./images/light%20strips.png)
-1. USB-C female plug (I got mine [here](https://a.aliexpress.com/_okP0abd)) ![image](./images/usbc%20connector.png)
+1. 5V LED light strip 3528 (I got mine [here](https://a.aliexpress.com/_oE7EGl1)) 
+
+    <img src="./images/light strips.png" width="300"/>
+
+1. USB-C female plug (I got mine [here](https://a.aliexpress.com/_okP0abd))
+
+    <img src="./images/usbc%20connector.png" width="300"/>
 
 To be printed:
 1. 1x main body.stl
@@ -53,10 +59,32 @@ For the light box itself, use the following print settings:
 
 ## 3. Assembly
 1. Solder the USB-C connector to the 5V LED strip and test that it works
+
+    <img src="./images/assembly 1.jpg" width="300"/>
+    <img src="./images/assembly 2.jpg" width="300"/>
+
 1. Slot in the USB-C connector and LED strip through the hole of the `back panel` and snap the USB-C plug into place
+
+    <img src="./images/assembly 4.JPG" width="300"/>
+
 1. Stick the LED strip around the sides of `back panel`
+
+    <img src="./images/assembly 3.JPG" width="300"/>
+
 1. Insert the `lithophane` into the `main body`
+
+    <img src="./images/assembly 5.JPG" width="300"/>
+    <img src="./images/assembly 6.JPG" width="300"/>
+
 1. Fit the `back panel` and `main body` together
+
+    <img src="./images/assembly 7.JPG" width="300"/>
+    <img src="./images/assembly 8.JPG" width="300"/>
+
+1. Light up the light box with a USB-C charging cable (for some reason apple chargers don't work. try using a power bank)
+
+    <img src="./images/assembly 9.JPG" width="300"/>
+    <img src="./images/assembly 10.JPG" width="300"/>
 
 
 # Future Ideas
