@@ -5,8 +5,17 @@ This replacement wheel is suitable as an unofficial replacement for the Airbot S
 This was designed with the print orientation and strength in mind. The wheel has to be strong enough such that it doesn't break easily, hence the thick walls setting and chamfered edge on the stalk.
 
 # Print Settings
-- Material:
-- Print settings:
+- Material:PLA / PETG
+- Print settings: 
+    - Walls: 4
+    - Bottom part of the object: enable fuzzy skin
+    - Infill: 20% Gyroid
+
+# Images
+![image](./images/bottom.png)
+![image](./images/side.png)
+![image](./images/on%20attachment.png)
+![image](./images/on%20attachment%202.png)
 
 # More
 - Printables: https://printables.com/@SiahYeeLong_2539073

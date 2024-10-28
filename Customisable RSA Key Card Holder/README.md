@@ -24,15 +24,21 @@ The card holder was designed on Onshape, and can be found [here](https://cad.ons
 ## 1. Opening the model on Onshape
 Open the public model [here](https://cad.onshape.com/documents/cd366e45768ae5cde9782d24/w/6bca1d46e2b0eba1f0af8b46/e/3bb64c4311748994661c816a?configuration=Card_Thickness%3D0.0013000000000000002%2Bmeter%3BFront_Text%3Dyour%2Bname%3BList_3kNECZOv570JrM%3DSOMETHING%3BSide_Text%3Dyour%2Bname&renderMode=0&uiState=671b4d61f3db545e90c4c7af)
 
+![image](./images/main%20page.png)
+
 ## 2. Editing the configurations to suit your needs
 On the Configurations panel on the left, edit the configurations according to your needs.
 
 You may choose the available logo options in the dropdown box. 
 
+![image](./images/configs.png)
+
 ## 3. Exporting the model
 Once you are satisfied with the model, click on the download button on the bottom
 
 Export your model as a .STEP or .stl file to be sliced
+
+![image](./images/exporting.png)
 
 ## 4. Printing the model
 Material: PLA / PETG
@@ -42,7 +48,24 @@ Slicer settings:
 - Supports: None
 - Brims: None
 
+Print orientation:
+
+This model was designed with 3D printing in mind, where the layer lines should not cause the object to be fragile along the horizontal axis. Hence, I designed for the object to be slanted when printing without the need for supports.
+
+<img src="./images/print orientation.png" height="300"/> <img src="./images/print%20orientation%202.png" height="300"/>
+
 ## 5. Assembly
+### Step 1: Ensure that the key ring on the RSA token is removed
+<img src="./images/assemble 1.JPG" height="500"/>
+
+### Step 2: Insert the RSA token into the card holder
+<img src="./images/assemble 2.JPG" height="500"/>
+
+### Step 3: Slide in your card
+<img src="./images/assemble 3.JPG" height="500"/> <img src="./images/assemble 4.JPG" height="500"/>
+
+### Step 5: Insert your landyard as required
+<img src="./images/assemble 5.JPG" height="500"/>
 
 # Future Ideas
 1. Easier process of choosing and uploading logo to be embedded (currently, I have to search for the svg format of an image, then convert to a dxf format for Onshape to recognise)
