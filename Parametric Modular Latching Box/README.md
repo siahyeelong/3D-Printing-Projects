@@ -1,5 +1,8 @@
 # Overview
 This is a modular rugged-style (but not really rugged) parametric latching box that I designed on Onshape. Details on how you can customise your own is listed in [Usage](#usage) 
+
+![image](./images/assembly%204.JPG)
+
 ## Objective
 3D printing has its limitations when it comes to structural integrity and tolerances. When using hardware in 3D prints, the tolerances you create in your model may depend on which printer and filament you're using. 
 
