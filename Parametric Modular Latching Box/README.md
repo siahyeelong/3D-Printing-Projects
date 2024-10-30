@@ -41,22 +41,17 @@ Export your model as a .STEP or .stl file to be sliced
 ### Step 1
 Once you have printed the parts according to the recommended slicer settings, proceed to slide and lock in the hinges and latches part into the main box component. The fit is designed to be firm to maintain some structural strength to the box.
 
-<img src="./images/assembly 1.1.JPG" width="300"/>
-<img src="./images/assembly 1.2.JPG" width="300"/>
-<img src="./images/assembly 1.3.JPG" width="300"/>
+<img src="./images/assembly 1.1.JPG" width="300"/><img src="./images/assembly 1.2.JPG" width="300"/><img src="./images/assembly 1.3.JPG" width="300"/>
 
 ### Step 2
 Screw in the necessary hardware where required
 
-<img src="./images/assembly 2.1.JPG" width="300"/>
-<img src="./images/assembly 2.2.JPG" width="300"/>
+<img src="./images/assembly 2.1.JPG" width="300"/><img src="./images/assembly 2.2.JPG" width="300"/>
 
 ### Step 3
 For handles, insert the handle first, then slide the locking piece in. Rotate the locking piece once fully inserted till it touches the end of the track. Pull the locking piece up with a screwdriver to firmly lock it in place.
 
-<img src="./images/assembly 3.1.JPG" width="300"/>
-<img src="./images/assembly 3.2.JPG" width="300"/>
-<img src="./images/assembly 3.3.JPG" width="300"/>
+<img src="./images/assembly 3.1.JPG" width="300"/><img src="./images/assembly 3.2.JPG" width="300"/><img src="./images/assembly 3.3.JPG" width="300"/>
 
 ### Step 4
 Done! Now, close the box, ensure that the hinge isn't too tight, and ensure that the latch clicks into place.
