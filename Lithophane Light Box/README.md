@@ -31,7 +31,7 @@ On the left panel, ensure the settings correspond accordingly:
 1. height x width = 105 x 140 mm
 1. min thick = 1.2mm
 
-![image](./images/settings.png)
+<img src="./images/settings.png" width="200"/>
 
 Download the model with the button on the bottom right.
 ![image](./images/download.png)

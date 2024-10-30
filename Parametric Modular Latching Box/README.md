@@ -24,7 +24,7 @@ Open the public model [here](https://cad.onshape.com/documents/bd7db400960aa689b
 ## 2. Editing the configurations to suit your needs
 On the Configurations panel on the left, edit the configurations of the box according to your needs. You may choose to disable the handle if you just want a plain box.
 
-![image](./images/edit%20config.png)
+<img src="./images/edit config.png" width="200"/>
 
 ## 3. Exporting the model
 Once you are satisfied with the model, click on the download button on the bottom
@@ -34,17 +34,38 @@ Export your model as a .STEP or .stl file to be sliced
 ![image](./images/exporting%202.png)
 
 ## 4. Assembly
+
+### Step 1
 Once you have printed the parts according to the recommended slicer settings, proceed to slide and lock in the hinges and latches part into the main box component. The fit is designed to be firm to maintain some structural strength to the box.
 
+<img src="./images/assembly 1.1.JPG" width="300"/>
+<img src="./images/assembly 1.2.JPG" width="300"/>
+<img src="./images/assembly 1.3.JPG" width="300"/>
+
+### Step 2
 Screw in the necessary hardware where required
 
+<img src="./images/assembly 2.1.JPG" width="300"/>
+<img src="./images/assembly 2.2.JPG" width="300"/>
+
+### Step 3
 For handles, insert the handle first, then slide the locking piece in. Rotate the locking piece once fully inserted till it touches the end of the track. Pull the locking piece up with a screwdriver to firmly lock it in place.
+
+<img src="./images/assembly 3.1.JPG" width="300"/>
+<img src="./images/assembly 3.2.JPG" width="300"/>
+<img src="./images/assembly 3.3.JPG" width="300"/>
+
+### Step 4
+Done! Now, close the box, ensure that the hinge isn't too tight, and ensure that the latch clicks into place.
+
+<img src="./images/assembly 4.JPG" width="400"/>
 
 # Future Ideas
 1. Slimmer hinge options
 1. Stackable design
 1. Compatible with smaller sizes
 1. Customisable number of latches and hinges
+
 # Print Settings
 - Material: PLA / PETG
 - Print settings: 
@@ -52,6 +73,9 @@ For handles, insert the handle first, then slide the locking piece in. Rotate th
     - Infill: Gyroid 10%
     - Top Layers: 4
     - Bottom Layers: 4
+    - Supports: 
+        - Handle and hinges: Yes, on build plate only
+        - Every other part: No
 
 # More
 - Printables: https://printables.com/@SiahYeeLong_2539073
