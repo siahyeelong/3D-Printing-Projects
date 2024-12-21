@@ -41,7 +41,7 @@ Load the generated stl into your slicer (I'm using Bambu Studio but you may use 
 
 Material wise, I use a matte white PLA filament, but any white filament should work. Avoid using white filaments advertised as warm / cool. Surprisingly, I find cheaper filaments work better as they're less opaque.
 Slicer settings for lithophanes:
-- Layer height: 1.2mm
+- Layer height: 0.12mm
 - Brim type: Outer brims only (basically enable brims)
 - Wall loops: 99999999
 - Top surface pattern: Concentric
@@ -52,7 +52,7 @@ Slicer settings for lithophanes:
 ![image](./images/slicer%20settings.png)
 
 For the light box itself, use the following print settings:
-- Layer height: 2.0mm
+- Layer height: 0.20mm
 - Brim type: None 
 - Wall loops: 2
 - Infill: 15% Lightning (avoid using gyroid, the infill might look gross when the light shines from the inside)
